@@ -1,0 +1,9 @@
+﻿  Juego.cpp
+d:\Mis documentos\Facultad\TDVJ\Mod y Algor 2\TPFinalVillaLucasMAVII\TP2MAVII\Src\Juego.cpp(12,30): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+d:\Mis documentos\Facultad\TDVJ\Mod y Algor 2\TPFinalVillaLucasMAVII\TP2MAVII\Src\Juego.cpp(213,47): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+d:\Mis documentos\Facultad\TDVJ\Mod y Algor 2\TPFinalVillaLucasMAVII\TP2MAVII\Src\Juego.cpp(334,19): warning C4996: 'sf::Text::setColor': se declaró desusado
+d:\Mis documentos\Facultad\TDVJ\Mod y Algor 2\TPFinalVillaLucasMAVII\TP2MAVII\Src\Juego.cpp(335,19): warning C4996: 'sf::Text::setColor': se declaró desusado
+d:\Mis documentos\Facultad\TDVJ\Mod y Algor 2\TPFinalVillaLucasMAVII\TP2MAVII\Src\Juego.cpp(341,19): warning C4996: 'sf::Text::setColor': se declaró desusado
+d:\Mis documentos\Facultad\TDVJ\Mod y Algor 2\TPFinalVillaLucasMAVII\TP2MAVII\Src\Juego.cpp(342,19): warning C4996: 'sf::Text::setColor': se declaró desusado
+d:\Mis documentos\Facultad\TDVJ\Mod y Algor 2\TPFinalVillaLucasMAVII\TP2MAVII\Src\Juego.cpp(386,45): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Box2dResortes.vcxproj -> d:\Mis documentos\Facultad\TDVJ\Mod y Algor 2\TPFinalVillaLucasMAVII\TP2MAVII\Bin\Debug\TPFinalVillaLucasMAVII.exe
